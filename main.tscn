@@ -69,6 +69,7 @@ script = ExtResource("1_80htu")
 
 [node name="PhantomCamera3D" type="Node3D" parent="."]
 script = ExtResource("2_uoyc7")
+priority = 1
 tween_resource = SubResource("Resource_dha6m")
 camera_3d_resource = SubResource("Resource_3jurd")
 
